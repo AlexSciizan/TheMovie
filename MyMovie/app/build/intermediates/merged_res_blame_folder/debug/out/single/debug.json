@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\build\\intermediates\\merged_res\\debug\\font_metal.ttf.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\src\\main\\res\\font\\metal.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\build\\intermediates\\merged_res\\debug\\layout_cell_list_rv_home.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\src\\main\\res\\layout\\cell_list_rv_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_round_rec_background_button_white2.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\src\\main\\res\\drawable-nodpi\\round_rec_background_button_white2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_loading.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_icon.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\src\\main\\res\\drawable-nodpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_round_rec_background_white.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\src\\main\\res\\drawable-nodpi\\round_rec_background_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail_movie.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\src\\main\\res\\layout\\activity_detail_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\build\\intermediates\\merged_res\\debug\\layout_viewpager_adapter_layout.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\src\\main\\res\\layout\\viewpager_adapter_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\build\\intermediates\\merged_res\\debug\\layout_home_layout.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_round_rec_background_button_white1.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\MyMovie\\app\\src\\main\\res\\drawable-nodpi\\round_rec_background_button_white1.xml"
+    }
+]

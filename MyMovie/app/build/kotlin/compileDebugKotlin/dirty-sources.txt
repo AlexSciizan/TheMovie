@@ -1,0 +1,9 @@
+C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\java\com\mymovie\MyMovieApp.kt
+C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\java\com\mymovie\Components\ItemObject.kt
+C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\java\com\mymovie\Components\Utility.kt
+C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\java\com\mymovie\Components\viewpager_home\ViewPagerAdapter.kt
+C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\java\com\mymovie\DetailMovieActivity.kt
+C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\java\com\mymovie\HomeActivity.kt
+C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\java\com\mymovie\Components\API.kt
+C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\java\com\mymovie\Components\RecyclerViewAdapterHome.kt
+C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\java\com\mymovie\Components\viewpager_home\HomeLayout.kt

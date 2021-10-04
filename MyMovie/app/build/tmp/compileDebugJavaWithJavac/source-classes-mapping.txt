@@ -1,0 +1,27 @@
+com/mymovie/MyMovieApp.java
+ com.mymovie.MyMovieApp
+com/mymovie/Components/API.java
+ com.mymovie.Components.API
+com/mymovie/BuildConfig.java
+ com.mymovie.BuildConfig
+com/mymovie/Components/ItemObject.java
+ com.mymovie.Components.ItemObject
+com/mymovie/Components/Utility.java
+ com.mymovie.Components.Utility
+ com.mymovie.Components.Utility$1
+ com.mymovie.Components.Utility$2
+ com.mymovie.Components.Utility$3
+ com.mymovie.Components.Utility$4
+ com.mymovie.Components.Utility$AsyncTaskDialog
+com/mymovie/Components/viewpager_home/ViewPagerAdapter.java
+ com.mymovie.Components.viewpager_home.ViewPagerAdapter
+com/mymovie/DetailMovieActivity.java
+ com.mymovie.DetailMovieActivity
+com/mymovie/Components/RecyclerViewAdapterHome.java
+ com.mymovie.Components.RecyclerViewAdapterHome
+ com.mymovie.Components.RecyclerViewAdapterHome$1
+ com.mymovie.Components.RecyclerViewHolderPro
+com/mymovie/Components/viewpager_home/HomeLayout.java
+ com.mymovie.Components.viewpager_home.HomeLayout
+com/mymovie/HomeActivity.java
+ com.mymovie.HomeActivity

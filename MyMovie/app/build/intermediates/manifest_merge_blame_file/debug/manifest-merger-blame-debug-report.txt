@@ -1,0 +1,102 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mymovie"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_PROFILE" />
+11-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:6:5-71
+11-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:6:22-68
+12    <uses-permission android:name="android.permission.READ_CONTACTS" />
+12-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:7:5-72
+12-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:7:22-69
+13    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+13-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:8:5-75
+13-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:8:22-72
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:9:5-67
+14-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+15-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:10:5-80
+15-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:11:5-80
+16-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:11:22-77
+17    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+17-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:12:5-81
+17-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:12:22-78
+18    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+18-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:13:5-71
+18-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:13:22-68
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:14:5-79
+19-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:14:22-76
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+20-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:15:5-76
+20-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:15:22-73
+21
+22    <application
+22-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:17:5-46:19
+23        android:name="com.mymovie.MyMovieApp"
+23-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:18:9-35
+24        android:allowBackup="false"
+24-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:19:9-36
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\ab3b4d17f5cad129916daf5d87516de5\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+26-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:20:9-34
+27        android:fullBackupContent="false"
+27-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:21:9-42
+28        android:hardwareAccelerated="true"
+28-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:22:9-43
+29        android:icon="@drawable/icon"
+29-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:23:9-38
+30        android:label="@string/app_name"
+30-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:24:9-41
+31        android:largeHeap="true"
+31-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:25:9-33
+32        android:requestLegacyExternalStorage="true"
+32-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:26:9-52
+33        android:roundIcon="@drawable/icon"
+33-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:27:9-43
+34        android:screenOrientation="portrait"
+34-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:28:9-45
+35        android:supportsRtl="true"
+35-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:29:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Theme.MyMovie"
+37-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:30:9-45
+38        android:usesCleartextTraffic="true" >
+38-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:31:9-44
+39        <activity
+39-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:34:9-36:39
+40            android:name="com.mymovie.DetailMovieActivity"
+40-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:35:13-48
+41            android:exported="true" />
+41-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:36:13-36
+42        <activity
+42-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:37:9-45:20
+43            android:name="com.mymovie.HomeActivity"
+43-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:38:13-41
+44            android:exported="true" >
+44-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:39:13-36
+45            <intent-filter>
+45-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:40:13-44:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:41:17-69
+46-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:41:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:43:17-77
+48-->C:\Users\ASUS\AndroidStudioProjects\MyMovie\app\src\main\AndroidManifest.xml:43:27-74
+49            </intent-filter>
+50        </activity>
+51    </application>
+52
+53</manifest>
